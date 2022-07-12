@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sabyasachi237
 - 👀 I’m interested in ...web development 
-- 🌱 I’m currently learning ...full stack delopment 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...full stack delopment
 - 📫 How to reach me ... https://www.linkedin.com/in/sabyasachi-sen-4954491b6
 
 <!---
